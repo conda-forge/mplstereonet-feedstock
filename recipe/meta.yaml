@@ -22,6 +22,7 @@ requirements:
     - matplotlib-base >=1.1
     - numpy >=1.1
     - python >=3.6
+    - shapely
 
 test:
   imports:
